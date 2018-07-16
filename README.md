@@ -1,4 +1,7 @@
 # TakeNRun
+
+Year: 2013
+
 Take 'N' Run 
 
 Take 'n' Run is 3d opengl game made by Federico Forlini and Paolo Carrara. 
@@ -7,3 +10,5 @@ The achievement of the game is to take the gold ball and run to next ball avoidi
 This project is made using Glut, SOIL and Irrklang libraries.
 
 ![alt text](TakeNRun/take-n-run.jpg)
+
+Warning: some part of the game (as the UI) could be in italian because the game was made for italian users.
