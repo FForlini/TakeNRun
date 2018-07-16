@@ -6,4 +6,4 @@ The achievement of the game is to take the gold ball and run to next ball avoidi
 
 This project is made using Glut, SOIL and Irrklang libraries.
 
-![alt text](TakeNRun\take-n-run.jpg)
+![alt text](TakeNRun/take-n-run.jpg)
