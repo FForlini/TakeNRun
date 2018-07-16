@@ -2,9 +2,9 @@
 
 Year: 2013
 
-Take 'N' Run ![Download game](www.federicoforlini.com/games/TakeNRunGame.zip)
+Take 'N' Run [Download game for Windows](http://www.federicoforlini.com/games/TakeNRunGame.zip)
 
-Take 'n' Run is 3d opengl game made by Federico Forlini and Paolo Carrara. 
+Take 'n' Run is 3d OpenGL game made by Federico Forlini and Paolo Carrara. 
 The achievement of the game is to take the gold ball and run to next ball avoiding the TNT boxes.
 
 This project is made using Glut, SOIL and Irrklang libraries.
