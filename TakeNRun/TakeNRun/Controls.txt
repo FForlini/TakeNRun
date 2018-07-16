@@ -1,0 +1,9 @@
+Comandi per muoversi all'interno del livello:                                       
+                                                                            
+W: avanza                                                                           
+A: voltati a sinistra                                                       
+S: indietreggia                                                              
+D: voltati a destra                                                              
+                                                                                    
+P: metti in pausa il gioco.                                                         
+                                                                          

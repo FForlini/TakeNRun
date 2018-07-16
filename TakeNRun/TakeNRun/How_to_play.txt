@@ -1,0 +1,14 @@
+Lo scopo del giocatore e' raccogliere un certo numero 
+di palline per completare un livello:
+-10 palline per il primo livello
+-15 palline per il secondo livello
+-20 palline per il terzo livello
+Evitando le TNT e i teschi che si muovono nella mappa.
+Il giocatore avrà a disposizione 4 vite all'inizio 
+della partita. Se viene colpito da un teschio 
+perdera' due vite,se viene colpito da una TNT ne 
+perdera' solo una.
+Al termine delle vite il giocatore perdera' la partita.
+Completati i 3 livelli,il giocatore vincera'
+la partita.
+

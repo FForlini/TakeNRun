@@ -1,0 +1,12 @@
+TakeNRun/ProgettoInformaticaGrafica.v11.suo
+TakeNRun/ProgettoInformaticaGrafica.psess
+*.db
+*.suo
+TakeNRun/Debug/
+TakeNRun/TakeNRun/Debug/
+TakeNRun/TakeNRun/lib/
+TakeNRun/TakeNRun/include/
+*.sdf
+*.sln
+TakeNRun/.vs/
+*.vspx

@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="File di origine">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="File di intestazione">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="File di risorse">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainMenu.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Field.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Coordinate.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewport.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Food.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMenu.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="Coordinate.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewport.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="Field.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="Food.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMenu.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Tick.mp3">
+      <Filter>File di risorse</Filter>
+    </Media>
+    <Media Include="..\..\..\..\..\Desktop\TakeNRun_forlo\TakeNRun\blop.wav">
+      <Filter>File di risorse</Filter>
+    </Media>
+    <Media Include="..\..\..\..\..\Desktop\TakeNRun_forlo\TakeNRun\tnt.wav">
+      <Filter>File di risorse</Filter>
+    </Media>
+    <Media Include="countdown.wav">
+      <Filter>File di risorse</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="How_to_play.txt">
+      <Filter>File di risorse</Filter>
+    </Text>
+    <Text Include="Controls.txt">
+      <Filter>File di risorse</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="wall1.jpg">
+      <Filter>File di risorse</Filter>
+    </Image>
+    <Image Include="wall2.jpg">
+      <Filter>File di risorse</Filter>
+    </Image>
+    <Image Include="wall3.jpg">
+      <Filter>File di risorse</Filter>
+    </Image>
+    <Image Include="wall4.jpg">
+      <Filter>File di risorse</Filter>
+    </Image>
+    <Image Include="wall5.jpg">
+      <Filter>File di risorse</Filter>
+    </Image>
+    <Image Include="title.png">
+      <Filter>File di risorse</Filter>
+    </Image>
+    <Image Include="tnt.png">
+      <Filter>File di risorse</Filter>
+    </Image>
+    <Image Include="food.jpg">
+      <Filter>File di risorse</Filter>
+    </Image>
+    <Image Include="lose.png">
+      <Filter>File di risorse</Filter>
+    </Image>
+    <Image Include="win.png">
+      <Filter>File di risorse</Filter>
+    </Image>
+    <Image Include="pause.jpg">
+      <Filter>File di risorse</Filter>
+    </Image>
+    <Image Include="life.png">
+      <Filter>File di risorse</Filter>
+    </Image>
+    <Image Include="skull.jpg">
+      <Filter>File di risorse</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
