@@ -11,4 +11,4 @@ This project is made using Glut, SOIL and Irrklang libraries.
 
 ![alt text](TakeNRun/take-n-run.jpg)
 
-Warning: some part of the game (as the UI) could be in italian because the game was made for italian users.
+Warning: some parts of the game (as the UI) could be in italian because the game was made for italian users.
